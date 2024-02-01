@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>{{ title }}</title>
+        <link rel="stylesheet" href="static/style.css">
+    </head>
+
+    <body>
+        <h2>{{ heading }}</h2>
+
+        <a href="/"><button>Home Page</button></a>
+        <p>&nbsp;</p>
+
+        {% block body %}
+        {% endblock %}
+
+        <hr>
+        Copyright (c) 2021 by Rachel.
+
+    </body>
+</html>

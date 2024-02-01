@@ -1,0 +1,11 @@
+body {
+	background-color: rgb(128, 255, 255);
+	font: 150% Tahoma;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+button {
+	font-size: large;
+}

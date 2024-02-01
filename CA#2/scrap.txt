@@ -1,0 +1,16 @@
+
+	#Not on PA.
+	config = {
+   		'host': '127.0.0.1',
+    		'database': 'commentsDB',
+    		'user': 'student',
+    		'password': 'itcarlow',
+	}
+
+	#Local.
+	config = {
+    		"host": "C00237335.mysql.pythonanywhere-services.com",
+    		"database": " C00237335$default",
+    		"user": "C00237335",
+    		"password": "itcarlow",
+	}
